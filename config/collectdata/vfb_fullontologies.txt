@@ -4,12 +4,8 @@ http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl
 http://purl.obolibrary.org/obo/hancestro/hancestro.owl
 http://purl.obolibrary.org/obo/mondo/mondo-base.owl
 http://purl.obolibrary.org/obo/pato.owl
-http://purl.obolibrary.org/obo/fbdv.owl
-http://purl.obolibrary.org/obo/wbls.owl
-http://purl.obolibrary.org/obo/zfs.owl
 http://purl.obolibrary.org/obo/mmusdv.owl
 http://purl.obolibrary.org/obo/hsapdv.owl
-http://purl.obolibrary.org/obo/xao.owl
 http://purl.obolibrary.org/obo/pcl.owl
 https://purl.brain-bican.org/ontology/mbao/mbao.owl
 https://purl.brain-bican.org/ontology/dmbao/dmbao.owl
