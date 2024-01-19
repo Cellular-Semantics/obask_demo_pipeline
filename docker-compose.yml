@@ -108,6 +108,8 @@ services:
   obask-ontology-search:
     image: ghcr.io/obasktools/ontology-search:latest
     container_name: ontology-search
+    environment:
+      - PYTHON_ENV=production
     ports: 
      - 8007:8007
     depends_on:
