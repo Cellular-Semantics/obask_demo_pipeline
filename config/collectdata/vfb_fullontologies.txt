@@ -7,8 +7,8 @@ http://purl.obolibrary.org/obo/pato.owl
 http://purl.obolibrary.org/obo/mmusdv.owl
 http://purl.obolibrary.org/obo/hsapdv.owl
 http://purl.obolibrary.org/obo/pcl.owl
-https://purl.brain-bican.org/ontology/mbao/mbao.owl
-https://purl.brain-bican.org/ontology/dmbao/dmbao.owl
-https://purl.brain-bican.org/ontology/hbao/hbao.owl
-https://purl.brain-bican.org/ontology/dhbao/dhbao.owl
-https://purl.brain-bican.org/ontology/pbao/pbao.owl
+https://raw.githubusercontent.com/brain-bican/mouse_brain_atlas_ontology/main/mbao.owl
+https://raw.githubusercontent.com/brain-bican/developing_mouse_brain_atlas_ontology/main/dmbao.owl
+https://raw.githubusercontent.com/brain-bican/human_brain_atlas_ontology/main/hbao.owl
+https://raw.githubusercontent.com/brain-bican/developing_human_brain_atlas_ontology/main/dhbao.owl
+https://raw.githubusercontent.com/brain-bican/primate_brain_atlas_ontology/main/pbao.owl
